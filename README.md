@@ -8,4 +8,6 @@ main.py를 실행하시면 됩니다.
 
 실행시에 프로젝트폴더\src\result에 파일이 생성됩니다.
 
+필요 패키지 : pyupbit, matploblib
+
 --20240309
